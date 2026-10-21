@@ -1,22 +1,6 @@
 # ITE18-REAL-ESTATE-FRONT-END
 frontend for our ite18 project
-Included screens and interactions
-Homepage and property collection
-Search by keyword, city, address, and property type
-Filter by sale/rent and property category
-Property detail modal with features, image, and assigned agent
-Favorites toggle using Pinia state
-Inquiry form with required-field, email, and phone validation
-Agent section
-Responsive desktop/tablet/mobile styling
-Demo data reflecting users, agents, properties, property_images, property_features, favorites, and inquiries
-Run locally
-Install Node.js LTS.
-Extract this folder.
-Open a terminal in the project folder.
-Run npm install
-Run npm run dev
-Open the local URL shown in the terminal (usually http://localhost:3000).
+
 **Notes**
 This is a frontend prototype. Property listings, agents, favorites, and inquiries use sample/in-memory data.
 Inquiries are not sent to an email address and are not persisted in a database.
